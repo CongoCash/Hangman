@@ -1,0 +1,14 @@
+.background {
+    height: 50vh;
+    background-image: url('http://rs284.pbsrc.com/albums/ll9/shaqone/thhung.gif?w=280&h=210&fit=crop');
+}
+
+.start-button {
+    position: absolute;
+    top: 50%;
+}
+
+.center-page {
+    height: 5vh;
+    text-align: center;
+}
